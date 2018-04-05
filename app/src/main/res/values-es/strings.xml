@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JustJava</string>
+    <string name="hint">Nombre</string>
+    <string name="toppings">Ingredientes</string>
+    <string name="quantity">cantidad</string>
+    <string name="ordersummary">"resumen de orden "</string>
+    <string name="order">orden</string>
+    <string name="addcream">Agregar crema batida ?</string>
+    <string name="addchoc">Agrega chocolate ?</string>
+    <string name="price">"Precio = € "</string>
+    <string name="thankyou">Gracias</string>
+    <string name="name">Nombre:</string>
+    <string name="rate">Rate : €5</string>
+</resources>
